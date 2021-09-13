@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * The type Contacts.
+ * A class to model a digital phone book.
  */
 class Contacts {
     /**
